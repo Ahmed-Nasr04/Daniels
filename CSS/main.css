@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  scroll-behavior: smooth;
+}
+p {
+  line-height: 1.6;
+  margin: 0;
+  font-size: 15px;
+  color: #748182;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+#home {
+  background-image: url(../img/bg.jpg);
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.icon {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  cursor: pointer;
+}
+h3 {
+  color: var(--h3-color);
+}
+.montserrat-font {
+  font-family: "Montserrat", sans-serif;
+}
+.font14-size {
+  font-size: 14px;
+}
+.font18-size {
+  font-size: 18px;
+}
+.font25-size {
+  font-size: 25px;
+}
+.font50-size {
+  font-size: 50px;
+}
+.font30-size {
+  font-size: 30px;
+}
+.font60-size {
+  font-size: 60px;
+}
+.weight900-font {
+  font-weight: 900;
+}
+.weight800-font {
+  font-weight: 800;
+}
+.weight700-font {
+  font-weight: 700;
+}
+
+.weight200-font {
+  font-weight: 200;
+}
+.bg-gray {
+  background: #f7f7f7;
+}
+.p-width {
+  max-width: 82%;
+}
+.gray-testi {
+  color: #888;
+}
+.mg-indicators {
+  margin: -43px 0;
+}
